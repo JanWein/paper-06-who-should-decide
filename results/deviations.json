@@ -1,0 +1,102 @@
+[
+  {
+    "example": "expansion",
+    "alpha": 0.55,
+    "q": [
+      0.6,
+      -0.0
+    ],
+    "types": {
+      "G": {
+        "submit": true,
+        "gain_submit": 1.8,
+        "gain_decline": 0.0
+      },
+      "B1": {
+        "submit": true,
+        "gain_submit": 0.010899999999999965,
+        "gain_decline": 0.0
+      },
+      "B2": {
+        "submit": true,
+        "gain_submit": 0.6436,
+        "gain_decline": 0.0
+      }
+    }
+  },
+  {
+    "example": "expansion",
+    "alpha": 0.9,
+    "q": [
+      0.6,
+      -0.0
+    ],
+    "types": {
+      "G": {
+        "submit": true,
+        "gain_submit": 1.8,
+        "gain_decline": 0.0
+      },
+      "B1": {
+        "submit": false,
+        "gain_submit": -0.045800000000000014,
+        "gain_decline": 0.0
+      },
+      "B2": {
+        "submit": true,
+        "gain_submit": 0.41679999999999995,
+        "gain_decline": 0.0
+      }
+    }
+  },
+  {
+    "example": "centralization",
+    "alpha": 0.55,
+    "q": [
+      0.21276595744680854,
+      -0.0
+    ],
+    "types": {
+      "G": {
+        "submit": true,
+        "gain_submit": 0.9,
+        "gain_decline": 0.0
+      },
+      "B1": {
+        "submit": true,
+        "gain_submit": 0.7946808510638298,
+        "gain_decline": 0.0
+      },
+      "B2": {
+        "submit": true,
+        "gain_submit": 1.6893617021276595,
+        "gain_decline": 0.0
+      }
+    }
+  },
+  {
+    "example": "centralization",
+    "alpha": 0.95,
+    "q": [
+      0.4347826086956522,
+      -0.0
+    ],
+    "types": {
+      "G": {
+        "submit": true,
+        "gain_submit": 0.9,
+        "gain_decline": 0.0
+      },
+      "B1": {
+        "submit": true,
+        "gain_submit": 0.5282608695652173,
+        "gain_decline": 0.0
+      },
+      "B2": {
+        "submit": true,
+        "gain_submit": 1.1565217391304345,
+        "gain_decline": 0.0
+      }
+    }
+  }
+]

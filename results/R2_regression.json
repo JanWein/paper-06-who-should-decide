@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "one_sided": [
+    {
+      "Q": "3/5",
+      "value": "2/5",
+      "left_limit": "-5/2",
+      "right_limit": "-5/3",
+      "left_difference": -2.499993750015625,
+      "right_difference": -1.6666638888935186
+    },
+    {
+      "Q": "7/10",
+      "value": "3/10",
+      "left_limit": "-10/3",
+      "right_limit": "-10/7",
+      "left_difference": -3.3333222222592593,
+      "right_difference": -1.4285693877580175
+    },
+    {
+      "Q": "9/10",
+      "value": "1/10",
+      "left_limit": "-10",
+      "right_limit": "-10/9",
+      "left_difference": -9.99990000099999,
+      "right_difference": -1.1111098765445817
+    }
+  ],
+  "reservation": "3/10",
+  "workload": "111/1000",
+  "gap": "189/1000",
+  "random_draws": 0
+}
